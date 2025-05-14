@@ -70,6 +70,7 @@ This list aims to cover Electron.js security related topics.
 - ["OVE-20210809-0001 Visual Studio Code .ipynb Jupyter Notebook XSS (Arbitrary File Read)", Justin Steven](https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md)
 - ["Visual Studio Code Jupyter Notebook RCE ( CVE-2021-26437)", Doyensec Blog](https://blog.doyensec.com/2022/10/27/jupytervscode.html)
 - ["Visual Studio Code - Remote Code Execution in Restricted Mode (CVE-2021-43908)", TheGrandPew and s1r1us](https://blog.electrovolt.io/posts/vscode-rce/)
+- ["Breaking Out of Restricted Mode: XSS to RCE in Visual Studio Code", Devesh Logendran](https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/)
 - ["Remote Code Execution in Slack desktop apps + bonus", Oskars Vegeris](https://hackerone.com/reports/783877)
 - ["Important, Spoofing - zero-click, wormable, cross-platform remote code execution in Microsoft Teams", Oskars Vegeris](https://github.com/oskarsve/ms-teams-rce)
 - ["Cross-site scripting (XSS) in Microsoft Teams", Evan Grant](https://www.tenable.com/security/research/tra-2019-54)
